@@ -1,0 +1,2 @@
+# SelfBudgetControl
+Money mangement system
